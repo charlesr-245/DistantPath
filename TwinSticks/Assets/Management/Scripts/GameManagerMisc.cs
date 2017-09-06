@@ -1,12 +1,23 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
+﻿using UnityEngine;
 public class GameManagerMisc : MonoBehaviour {
 
+    private static GameObject Manager;
 
     private void Awake()
     {
-        DontDestroyOnLoad(gameObject);
+        //Make sure there's only one instance of the GameManager
+        if (Manager == null)
+        {
+            DontDestroyOnLoad(gameObject);
+            Manager = gameObject;
+        }
+        else
+        {
+            Destroy(gameObject);
+        }
+
+
+
     }
+
 }

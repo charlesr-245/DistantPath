@@ -1,0 +1,11 @@
+---------
+CHANGELOG v1.6
+--------- 
+
+LEVELS
++ Level3
+
+GIMICKS
++ "TrueLoops"
+
+Various Bugfixes

@@ -4,9 +4,12 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Fade
   - LoadFade
+  - Fade
   - UI
+  - deathPlane
+  - loopLayerChange1
+  - loopLayerChange2
   layers:
   - Default
   - TransparentFX
@@ -16,12 +19,12 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - PlayerAll
+  - Player1
+  - Player2
+  - TraversableAll
+  - Traversable1
+  - Traversable2
   - 
   - 
   - 
