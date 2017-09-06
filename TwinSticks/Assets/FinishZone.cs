@@ -30,7 +30,7 @@ public class FinishZone : MonoBehaviour {
 
     private void OnTriggerEnter(Collider other)
     {
-        if (other.gameObject.layer == LayerMask.NameToLayer("Player"))
+        if (other.gameObject.layer == LayerMask.NameToLayer("PlayerAll") || other.gameObject.layer == LayerMask.NameToLayer("Player1") || other.gameObject.layer == LayerMask.NameToLayer("Player2"))
         {
             other.GetComponentInParent<PlayerManager>().DisableAll();
             finished = true;

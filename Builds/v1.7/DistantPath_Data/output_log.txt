@@ -1,0 +1,481 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     4058 MB
+    Driver:   22.21.13.8541
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Standard Files\Programming\Udemy\TwinSticks\Builds\v1.7\DistantPath_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Standard Files\Programming\Udemy\TwinSticks\Builds\v1.7\DistantPath_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Standard Files\Programming\Udemy\TwinSticks\Builds\v1.7\DistantPath_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Standard Files\Programming\Udemy\TwinSticks\Builds\v1.7\DistantPath_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Standard Files\Programming\Udemy\TwinSticks\Builds\v1.7\DistantPath_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Standard Files\Programming\Udemy\TwinSticks\Builds\v1.7\DistantPath_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Standard Files\Programming\Udemy\TwinSticks\Builds\v1.7\DistantPath_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Standard Files\Programming\Udemy\TwinSticks\Builds\v1.7\DistantPath_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Standard Files\Programming\Udemy\TwinSticks\Builds\v1.7\DistantPath_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading D:\Standard Files\Programming\Udemy\TwinSticks\Builds\v1.7\DistantPath_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: D:\Standard Files\Programming\Udemy\TwinSticks\Builds\v1.7\DistantPath_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\Standard Files\Programming\Udemy\TwinSticks\Builds\v1.7\DistantPath_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.014 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.621295 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: a6bc -> priority: 1 
+  Thread -> id: 2a538 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.973441 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 887.
+Total: 0.224730 ms (FindLiveObjects: 0.036821 ms CreateObjectMapping: 0.010812 ms MarkObjects: 0.170958 ms  DeleteObjects: 0.005552 ms)
+
+Player1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TraversableAll
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TraversableAll
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Can't add component 'Rigidbody' to LeftWheel because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Can't add component 'Rigidbody' to LeftWheelToBase because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Can't add component 'Rigidbody' to Base because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Can't add component 'Rigidbody' to SeatSupport because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Can't add component 'Rigidbody' to Seat because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Can't add component 'Rigidbody' to HandleSupport because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Can't add component 'Rigidbody' to Handle because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Can't add component 'Rigidbody' to RightWheel because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Can't add component 'Rigidbody' to RightWheelToBase because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.613148 ms
+
+Unloading 64 unused Assets to reduce memory usage. Loaded Objects now: 928.
+Total: 0.324383 ms (FindLiveObjects: 0.039451 ms CreateObjectMapping: 0.013735 ms MarkObjects: 0.243725 ms  DeleteObjects: 0.026885 ms)
+
+Player1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TraversableAll
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.363250 ms
+
+Unloading 64 unused Assets to reduce memory usage. Loaded Objects now: 928.
+Total: 0.263013 ms (FindLiveObjects: 0.036529 ms CreateObjectMapping: 0.014027 ms MarkObjects: 0.185862 ms  DeleteObjects: 0.026009 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.334611 ms
+
+Unloading 65 unused Assets to reduce memory usage. Loaded Objects now: 1297.
+Total: 0.296036 ms (FindLiveObjects: 0.051141 ms CreateObjectMapping: 0.014904 ms MarkObjects: 0.201059 ms  DeleteObjects: 0.028346 ms)
+
+Player1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TraversableAll
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.389551 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1286.
+Total: 0.446830 ms (FindLiveObjects: 0.056109 ms CreateObjectMapping: 0.011689 ms MarkObjects: 0.184109 ms  DeleteObjects: 0.194337 ms)
+
+Can't add component 'Rigidbody' to LeftWheel because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Can't add component 'Rigidbody' to LeftWheelToBase because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Can't add component 'Rigidbody' to Base because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Can't add component 'Rigidbody' to SeatSupport because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Can't add component 'Rigidbody' to Seat because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Can't add component 'Rigidbody' to HandleSupport because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Can't add component 'Rigidbody' to Handle because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Can't add component 'Rigidbody' to RightWheel because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Can't add component 'Rigidbody' to RightWheelToBase because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.381077 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1286.
+Total: 0.238173 ms (FindLiveObjects: 0.047926 ms CreateObjectMapping: 0.011689 ms MarkObjects: 0.175049 ms  DeleteObjects: 0.002922 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.379031 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1286.
+Total: 0.236127 ms (FindLiveObjects: 0.049680 ms CreateObjectMapping: 0.010812 ms MarkObjects: 0.171835 ms  DeleteObjects: 0.003214 ms)
+
+Player1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TraversableAll
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.384876 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1286.
+Total: 0.263013 ms (FindLiveObjects: 0.053771 ms CreateObjectMapping: 0.013150 ms MarkObjects: 0.192291 ms  DeleteObjects: 0.003214 ms)
+
+Player1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TraversableAll
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.395981 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1286.
+Total: 0.244894 ms (FindLiveObjects: 0.049680 ms CreateObjectMapping: 0.011981 ms MarkObjects: 0.179725 ms  DeleteObjects: 0.002922 ms)
+
+Player1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TraversableAll
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TraversableAll
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Can't add component 'Rigidbody' to LeftWheel because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Can't add component 'Rigidbody' to LeftWheelToBase because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Can't add component 'Rigidbody' to Base because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Can't add component 'Rigidbody' to SeatSupport because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Can't add component 'Rigidbody' to Seat because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Can't add component 'Rigidbody' to HandleSupport because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Can't add component 'Rigidbody' to Handle because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Can't add component 'Rigidbody' to RightWheel because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Can't add component 'Rigidbody' to RightWheelToBase because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.402410 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1286.
+Total: 0.240803 ms (FindLiveObjects: 0.047634 ms CreateObjectMapping: 0.011397 ms MarkObjects: 0.177680 ms  DeleteObjects: 0.002922 ms)
+
+Player1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TraversableAll
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.391889 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1286.
+Total: 0.310063 ms (FindLiveObjects: 0.047342 ms CreateObjectMapping: 0.048803 ms MarkObjects: 0.210410 ms  DeleteObjects: 0.002630 ms)
+
+Player1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TraversableAll
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.385752 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1286.
+Total: 0.280547 ms (FindLiveObjects: 0.047342 ms CreateObjectMapping: 0.011105 ms MarkObjects: 0.218008 ms  DeleteObjects: 0.003214 ms)
+
+Player1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TraversableAll
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.381953 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1286.
+Total: 0.248109 ms (FindLiveObjects: 0.047050 ms CreateObjectMapping: 0.011689 ms MarkObjects: 0.185570 ms  DeleteObjects: 0.003214 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.387506 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1847.
+Total: 0.333442 ms (FindLiveObjects: 0.070429 ms CreateObjectMapping: 0.020748 ms MarkObjects: 0.231743 ms  DeleteObjects: 0.009936 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.532748 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1847.
+Total: 0.279378 ms (FindLiveObjects: 0.055817 ms CreateObjectMapping: 0.015196 ms MarkObjects: 0.204858 ms  DeleteObjects: 0.002630 ms)
+
+Player1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TraversableAll
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.525734 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1847.
+Total: 0.280839 ms (FindLiveObjects: 0.062538 ms CreateObjectMapping: 0.016949 ms MarkObjects: 0.197259 ms  DeleteObjects: 0.003214 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.540930 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1847.
+Total: 0.324383 ms (FindLiveObjects: 0.062246 ms CreateObjectMapping: 0.018703 ms MarkObjects: 0.239634 ms  DeleteObjects: 0.002922 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.538300 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1847.
+Total: 0.339871 ms (FindLiveObjects: 0.072767 ms CreateObjectMapping: 0.017534 ms MarkObjects: 0.245479 ms  DeleteObjects: 0.003214 ms)
+
+Player1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TraversableAll
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.557880 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1847.
+Total: 0.280839 ms (FindLiveObjects: 0.061369 ms CreateObjectMapping: 0.015780 ms MarkObjects: 0.200182 ms  DeleteObjects: 0.002922 ms)
+
+Player1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TraversableAll
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.541807 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1847.
+Total: 0.311232 ms (FindLiveObjects: 0.067798 ms CreateObjectMapping: 0.019872 ms MarkObjects: 0.219469 ms  DeleteObjects: 0.003506 ms)
+
+Player1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TraversableAll
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TraversableAll
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Can't add component 'Rigidbody' to LeftWheel because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Can't add component 'Rigidbody' to LeftWheelToBase because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Can't add component 'Rigidbody' to Base because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Can't add component 'Rigidbody' to SeatSupport because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Can't add component 'Rigidbody' to Seat because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Can't add component 'Rigidbody' to HandleSupport because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Can't add component 'Rigidbody' to Handle because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Can't add component 'Rigidbody' to RightWheel because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Can't add component 'Rigidbody' to RightWheelToBase because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.537423 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1847.
+Total: 0.323506 ms (FindLiveObjects: 0.066922 ms CreateObjectMapping: 0.017241 ms MarkObjects: 0.234666 ms  DeleteObjects: 0.003799 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.539469 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1847.
+Total: 0.336949 ms (FindLiveObjects: 0.058155 ms CreateObjectMapping: 0.016365 ms MarkObjects: 0.258337 ms  DeleteObjects: 0.003506 ms)
+
+Player1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TraversableAll
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.579798 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1847.
+Total: 0.320876 ms (FindLiveObjects: 0.068383 ms CreateObjectMapping: 0.018118 ms MarkObjects: 0.229698 ms  DeleteObjects: 0.003799 ms)
+
+Player1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TraversableAll
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.535670 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1847.
+Total: 0.332273 ms (FindLiveObjects: 0.066630 ms CreateObjectMapping: 0.018410 ms MarkObjects: 0.242264 ms  DeleteObjects: 0.004091 ms)
+
+Player2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TraversableAll
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.594410 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1847.
+Total: 0.297497 ms (FindLiveObjects: 0.064876 ms CreateObjectMapping: 0.017241 ms MarkObjects: 0.211871 ms  DeleteObjects: 0.002922 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.545022 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 426.
+Total: 0.281424 ms (FindLiveObjects: 0.018703 ms CreateObjectMapping: 0.007890 ms MarkObjects: 0.170666 ms  DeleteObjects: 0.083287 ms)
+

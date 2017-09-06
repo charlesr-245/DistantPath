@@ -1,0 +1,113 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     4058 MB
+    Driver:   22.21.13.8541
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Standard Files\Programming\Udemy\TwinSticks\Builds\v1.6\TwinSticks_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Standard Files\Programming\Udemy\TwinSticks\Builds\v1.6\TwinSticks_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Standard Files\Programming\Udemy\TwinSticks\Builds\v1.6\TwinSticks_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Standard Files\Programming\Udemy\TwinSticks\Builds\v1.6\TwinSticks_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Standard Files\Programming\Udemy\TwinSticks\Builds\v1.6\TwinSticks_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Standard Files\Programming\Udemy\TwinSticks\Builds\v1.6\TwinSticks_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Standard Files\Programming\Udemy\TwinSticks\Builds\v1.6\TwinSticks_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Standard Files\Programming\Udemy\TwinSticks\Builds\v1.6\TwinSticks_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Standard Files\Programming\Udemy\TwinSticks\Builds\v1.6\TwinSticks_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading D:\Standard Files\Programming\Udemy\TwinSticks\Builds\v1.6\TwinSticks_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: D:\Standard Files\Programming\Udemy\TwinSticks\Builds\v1.6\TwinSticks_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\Standard Files\Programming\Udemy\TwinSticks\Builds\v1.6\TwinSticks_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.072 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.724747 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 21044 -> priority: 1 
+  Thread -> id: 22204 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.022829 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 887.
+Total: 0.209533 ms (FindLiveObjects: 0.032730 ms CreateObjectMapping: 0.010520 ms MarkObjects: 0.160730 ms  DeleteObjects: 0.005260 ms)
+
+Can't add component 'Rigidbody' to LeftWheel because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Can't add component 'Rigidbody' to LeftWheelToBase because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Can't add component 'Rigidbody' to Base because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Can't add component 'Rigidbody' to SeatSupport because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Can't add component 'Rigidbody' to Seat because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Can't add component 'Rigidbody' to HandleSupport because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Can't add component 'Rigidbody' to Handle because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Can't add component 'Rigidbody' to RightWheel because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Can't add component 'Rigidbody' to RightWheelToBase because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.685915 ms
+
+Unloading 64 unused Assets to reduce memory usage. Loaded Objects now: 928.
+Total: 0.275579 ms (FindLiveObjects: 0.039744 ms CreateObjectMapping: 0.014904 ms MarkObjects: 0.194629 ms  DeleteObjects: 0.025716 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.330812 ms
+
+Unloading 64 unused Assets to reduce memory usage. Loaded Objects now: 928.
+Total: 0.265935 ms (FindLiveObjects: 0.041497 ms CreateObjectMapping: 0.012858 ms MarkObjects: 0.185278 ms  DeleteObjects: 0.025716 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.334026 ms
+
+Unloading 64 unused Assets to reduce memory usage. Loaded Objects now: 928.
+Total: 0.305679 ms (FindLiveObjects: 0.030100 ms CreateObjectMapping: 0.011981 ms MarkObjects: 0.237296 ms  DeleteObjects: 0.026009 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.313278 ms
+
+Unloading 64 unused Assets to reduce memory usage. Loaded Objects now: 928.
+Total: 0.296328 ms (FindLiveObjects: 0.030684 ms CreateObjectMapping: 0.011689 ms MarkObjects: 0.228821 ms  DeleteObjects: 0.024547 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.331981 ms
+
+Unloading 64 unused Assets to reduce memory usage. Loaded Objects now: 928.
+Total: 0.253077 ms (FindLiveObjects: 0.035945 ms CreateObjectMapping: 0.011981 ms MarkObjects: 0.179141 ms  DeleteObjects: 0.025424 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.325844 ms
+
+Unloading 64 unused Assets to reduce memory usage. Loaded Objects now: 928.
+Total: 0.352145 ms (FindLiveObjects: 0.041497 ms CreateObjectMapping: 0.013442 ms MarkObjects: 0.264474 ms  DeleteObjects: 0.032438 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.320876 ms
+
+Unloading 64 unused Assets to reduce memory usage. Loaded Objects now: 928.
+Total: 0.256876 ms (FindLiveObjects: 0.036529 ms CreateObjectMapping: 0.012273 ms MarkObjects: 0.180894 ms  DeleteObjects: 0.026593 ms)
+

@@ -249,6 +249,10 @@ Prefab:
       propertyPath: DeathCollider
       value: 
       objectReference: {fileID: 1994004438}
+    - target: {fileID: 1409122668780834, guid: afc9432e4c8c1e141b2d4fed6b7fc6d2, type: 2}
+      propertyPath: m_TagString
+      value: Player
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 65234947509944484, guid: afc9432e4c8c1e141b2d4fed6b7fc6d2, type: 2}
   m_ParentPrefab: {fileID: 100100000, guid: afc9432e4c8c1e141b2d4fed6b7fc6d2, type: 2}
@@ -1525,7 +1529,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 764487809}
-  m_Layer: 8
+  m_Layer: 11
   m_Name: Level Objects
   m_TagString: Untagged
   m_Icon: {fileID: 0}
