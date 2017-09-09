@@ -8,6 +8,8 @@ public class PlayerManager : MonoBehaviour {
 
     private float countdown = 0;
 
+
+
     private void OnTriggerEnter(Collider other)
     {
         if (other.gameObject.tag == "deathPlane")
@@ -49,6 +51,7 @@ public class PlayerManager : MonoBehaviour {
     {
         GetComponent<BikeMotor>().DisableMovement();
         GetComponent<BikeLeaning>().DisableLeaning();
+        GameObject.Find("ManagementScripts").GetComponent<GameTimer>().SetPaused(true);
         DisableDeath();
     }
 
@@ -97,11 +100,10 @@ public class PlayerManager : MonoBehaviour {
         }
         if (playerDead)
         {
-            countdown += 1 * Time.deltaTime;
+            countdown += Time.deltaTime;
         }
         //Debug.Log(countdown);
     }
-
 
     void ReloadScene()
     {

@@ -10,8 +10,8 @@ public class DeathZone : MonoBehaviour {
             || (gameObject.tag != "Finish" && !LayerMask.LayerToName(other.gameObject.layer).Contains("Traversable"))) && !other.isTrigger
             )
         {
-            Debug.Log(LayerMask.LayerToName(transform.parent.gameObject.layer));
-            Debug.Log(LayerMask.LayerToName(other.gameObject.layer));
+            //Debug.Log(LayerMask.LayerToName(transform.parent.gameObject.layer));
+            //Debug.Log(LayerMask.LayerToName(other.gameObject.layer));
             Destroy(GetComponent<BoxCollider>());
             GetComponentInParent<PlayerManager>().KillPlayer();
         }
