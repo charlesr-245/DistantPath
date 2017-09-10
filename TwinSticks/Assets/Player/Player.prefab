@@ -19,7 +19,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4842118094360626}
-  m_Layer: 8
+  m_Layer: 9
   m_Name: PlayerModel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -39,7 +39,8 @@ GameObject:
   - component: {fileID: 124145864269315970}
   - component: {fileID: 81896925893018126}
   - component: {fileID: 95417592592325148}
-  m_Layer: 0
+  - component: {fileID: 114219861933643914}
+  m_Layer: 9
   m_Name: PlayerCamera
   m_TagString: MainCamera
   m_Icon: {fileID: 0}
@@ -56,7 +57,7 @@ GameObject:
   - component: {fileID: 4804354772262918}
   - component: {fileID: 65651983697286372}
   - component: {fileID: 114423999950272050}
-  m_Layer: 8
+  m_Layer: 9
   m_Name: DeathZone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -73,13 +74,12 @@ GameObject:
   - component: {fileID: 4932559153149130}
   - component: {fileID: 54240912822261016}
   - component: {fileID: 114347927462136748}
-  - component: {fileID: 65234947509944484}
   - component: {fileID: 114179778531105684}
   - component: {fileID: 114171994383126106}
   - component: {fileID: 114275162435299612}
-  m_Layer: 8
+  m_Layer: 9
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -95,7 +95,7 @@ GameObject:
   - component: {fileID: 33289287601492868}
   - component: {fileID: 65357485925009146}
   - component: {fileID: 23636446391648166}
-  m_Layer: 8
+  m_Layer: 9
   m_Name: Base
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -113,7 +113,7 @@ GameObject:
   - component: {fileID: 33461091567204486}
   - component: {fileID: 65173220370050154}
   - component: {fileID: 23128673781156130}
-  m_Layer: 8
+  m_Layer: 9
   m_Name: LeftWheelToBase
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -129,7 +129,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4713320054038416}
   - component: {fileID: 95433021627733928}
-  m_Layer: 8
+  m_Layer: 9
   m_Name: BikeModel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -147,7 +147,7 @@ GameObject:
   - component: {fileID: 33315973901541362}
   - component: {fileID: 23370624344681962}
   - component: {fileID: 135883298857499262}
-  m_Layer: 8
+  m_Layer: 9
   m_Name: LeftWheel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -166,7 +166,7 @@ GameObject:
   - component: {fileID: 92715175466461782}
   - component: {fileID: 124745085920224800}
   - component: {fileID: 81575932688593426}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: PlayerCamera
   m_TagString: MainCamera
   m_Icon: {fileID: 0}
@@ -184,7 +184,7 @@ GameObject:
   - component: {fileID: 33815913096513112}
   - component: {fileID: 65703873520313208}
   - component: {fileID: 23526264392965034}
-  m_Layer: 8
+  m_Layer: 9
   m_Name: Handle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -202,7 +202,7 @@ GameObject:
   - component: {fileID: 33199367065125102}
   - component: {fileID: 65466604579352314}
   - component: {fileID: 23402174365876582}
-  m_Layer: 8
+  m_Layer: 9
   m_Name: SeatSupport
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -220,7 +220,7 @@ GameObject:
   - component: {fileID: 33829122894327792}
   - component: {fileID: 65522006222555946}
   - component: {fileID: 23612699852961074}
-  m_Layer: 8
+  m_Layer: 9
   m_Name: RightWheelToBase
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -238,7 +238,7 @@ GameObject:
   - component: {fileID: 33242536025815508}
   - component: {fileID: 65787829139252484}
   - component: {fileID: 23876842559247126}
-  m_Layer: 8
+  m_Layer: 9
   m_Name: HandleSupport
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -256,7 +256,7 @@ GameObject:
   - component: {fileID: 33493739409719590}
   - component: {fileID: 65694339184698708}
   - component: {fileID: 23806865686292644}
-  m_Layer: 8
+  m_Layer: 9
   m_Name: Seat
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -274,7 +274,7 @@ GameObject:
   - component: {fileID: 33403221111564484}
   - component: {fileID: 23200932539964834}
   - component: {fileID: 135013114323613918}
-  m_Layer: 8
+  m_Layer: 9
   m_Name: RightWheel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -293,7 +293,7 @@ GameObject:
   - component: {fileID: 92575486837389550}
   - component: {fileID: 124657134149169062}
   - component: {fileID: 81958796162482984}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: PlayerCamera (1)
   m_TagString: MainCamera
   m_Icon: {fileID: 0}
@@ -1009,18 +1009,6 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
---- !u!65 &65234947509944484
-BoxCollider:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1409122668780834}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 1.74, y: 0.23, z: 1}
-  m_Center: {x: 0.34, y: 0.2, z: 0}
 --- !u!65 &65357485925009146
 BoxCollider:
   m_ObjectHideFlags: 1
@@ -1067,7 +1055,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 1.74, y: 0.23, z: 1}
+  m_Size: {x: 1.2, y: 0.45, z: 0.31}
   m_Center: {x: 0.34, y: 0.2, z: 0}
 --- !u!65 &65694339184698708
 BoxCollider:
@@ -1205,6 +1193,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   DeathCamera: {fileID: 0}
+  DeathCollider: {fileID: 1164423340530376}
+--- !u!114 &114219861933643914
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1067975211619300}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff26db721962cdf4a8edcdfa9a767d2a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  profile: {fileID: 11400000, guid: a4f8a533a81cdee4d851b0daf96ae52b, type: 2}
 --- !u!114 &114275162435299612
 MonoBehaviour:
   m_ObjectHideFlags: 1
